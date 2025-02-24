@@ -1,5 +1,6 @@
+// Sample code of hello world in c.
+
 #include<stdio.h>
-#include<conio.h>
 
 int main() {
     printf("Hello World");
