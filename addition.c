@@ -1,3 +1,4 @@
+// Sample code of adding two integer values using user-defined language.
 #include <stdio.h>
 
 int main() {
